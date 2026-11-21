@@ -1,0 +1,22 @@
+@font-face {
+  font-family: "Font Awesome 6 Free";
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url("/vendor/fontawesome/webfonts/fa-solid-subset.woff2") format("woff2");
+}
+.fa-solid {
+  font-family: "Font Awesome 6 Free";
+  font-weight: 900;
+  font-style: normal;
+  display: inline-block;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+}
+.fa-user:before { content: "\f007"; }
+.fa-xmark:before { content: "\f00d"; }
+.fa-chevron-left:before { content: "\f053"; }
+.fa-chevron-right:before { content: "\f054"; }
+.fa-expand:before { content: "\f065"; }
+.fa-bars:before { content: "\f0c9"; }
+.fa-bed:before { content: "\f236"; }

@@ -1,0 +1,1 @@
+import{l as e}from"./index-C9QLReDC.js";import{t}from"./rooms-page-BObinu05.js";var n=e(),r=()=>(0,n.jsx)(t,{lang:`en`});export{r as component};
